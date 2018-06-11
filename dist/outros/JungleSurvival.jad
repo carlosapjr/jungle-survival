@@ -1,0 +1,10 @@
+IA-X-appID: lightmobile_Olimpiadas2012_OVI
+MIDlet-1: DuckHunter,/duck.png,JungleSurvival
+MIDlet-Jar-Size: 186303
+MIDlet-Jar-URL: DuckHunter.jar
+MIDlet-Name: Duck Hunter
+MIDlet-Permissions: javax.microedition.io.Connector.http
+MIDlet-Vendor: Marlon Luz
+MIDlet-Version: 0.1
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

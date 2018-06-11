@@ -1,0 +1,9 @@
+MIDlet-1: JungleSurvival,/duck.png,JungleSurvival
+MIDlet-Jar-Size: 186127
+MIDlet-Jar-URL: DuckHunter.jar
+MIDlet-Name: Jungle Survival
+MIDlet-Permissions: javax.microedition.io.Connector.http
+MIDlet-Vendor: Carlos Alberto
+MIDlet-Version: 0.1
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
